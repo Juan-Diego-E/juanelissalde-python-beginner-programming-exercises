@@ -46,7 +46,7 @@ $ npm i @learnpack/learnpack@2.1.20 -g && learnpack plugins:install @learnpack/p
 
 ```bash
 $ git clone https://github.com/4GeeksAcademy/python-beginner-programming-exercises.git
-$ cd python-beginner-programming-exercises
+$ cd python-beginner-programming-exercises 
 ```
 
 > Note: Once you finish downloading, you will find an "exercises" folder that contains all the exercises within.
